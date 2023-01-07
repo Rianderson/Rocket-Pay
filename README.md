@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. O usuário, ao interagir com os inputs e adicionar o número de um cartão terá a vizualização da bandeira de seu cartão e a mudança da cor ao fundo do mesmo, isso graças aos eventos no DOM, o iMask e um pouco de [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. O usuário, ao interagir com os inputs e adicionar o número de um cartão terá a vizualização da bandeira de seu cartão e a mudança da cor ao fundo do mesmo, isso graças aos eventos no DOM, o iMask e um pouco de [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp).
 
 ## 🔖 Layout
 
